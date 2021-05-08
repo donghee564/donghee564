@@ -12,7 +12,7 @@ React js 를 활용한 프로젝트
 - [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! [데모](https://donghee564.github.io/weather_app/)
 
 Chase Bank (HTML, CSS, JavaScript, jQuery)
-- [Chase-Bank](https://github.com/donghee564/chase_bank) - HTML, CSS, JavaScript, jQuery 를 활용한 Chase Bank 리뉴얼 프로젝트.
+- [Chase-Bank](https://github.com/donghee564/chase-bank) - HTML, CSS, JavaScript, jQuery 를 활용한 Chase Bank 리뉴얼 프로젝트.
 
 <!---
 donghee564/donghee564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
