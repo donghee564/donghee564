@@ -8,6 +8,8 @@ What I can do:
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/></a>
 
+### My Works:
+
 React js 를 활용한 프로젝트
 - [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! [데모](https://donghee564.github.io/TMDB_movie_app/#/)
 - [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! [데모](https://donghee564.github.io/weather_app/)
