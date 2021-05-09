@@ -9,6 +9,7 @@ What I can do:
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/></a>
 
 React js 를 활용한 프로젝트
+- [TMDb-movie-app](https://donghee564.github.io/TMDB_movie_app/#/) - themoviedb API 를 활용한 SPA 영화 리뷰 앱! 
 - [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! [데모](https://donghee564.github.io/weather_app/)
 
 Chase Bank (HTML, CSS, JavaScript, jQuery)
