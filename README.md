@@ -17,7 +17,7 @@ React js 를 활용한 프로젝트
 Chase Bank (HTML, CSS, JavaScript, jQuery)
 - [Chase-Bank](https://github.com/donghee564/chase-bank) - HTML, CSS, JavaScript, jQuery 를 활용한 Chase Bank 리뉴얼 프로젝트. ([레포지토리](https://github.com/donghee564/chase-bank))
 
-포트폴리오 소개 웹페이지는 현재 제작중 입니다.
+포트폴리오 소개 웹페이지는 현재 제작중 입니다. (d-day 05-31)
 - [레포지토리](https://github.com/donghee564/portfolio-introduce/blob/master/README.md)
 <!---
 donghee564/donghee564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
