@@ -14,10 +14,10 @@ React js 를 활용한 프로젝트
 - [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! ([레포지토리](https://github.com/donghee564/TMDB_movie_app), [데모](https://donghee564.github.io/TMDB_movie_app/#/))
 - [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! ([레포지토리](https://github.com/donghee564/weather_app), [데모](https://donghee564.github.io/weather_app/))
 
-Chase Bank (HTML, CSS, JavaScript, jQuery)
+Chase Bank (HTML, CSS, JavaScript, jQuery) (2020)
 - [Chase-Bank](https://github.com/donghee564/chase-bank) - HTML, CSS, JavaScript, jQuery 를 활용한 Chase Bank 리뉴얼 프로젝트. ([레포지토리](https://github.com/donghee564/chase-bank))
 
-포트폴리오 소개 웹페이지는 현재 제작중 입니다.
+포트폴리오 소개 웹페이지 (2020)
 - 구글 Chrome 에 최적화 되어있습니다.
 - [portfolio-introduce 레포지토리](https://github.com/donghee564/portfolio-introduce/)
 - [데모](https://donghee564.github.io/portfolio-introduce/)
