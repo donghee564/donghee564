@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=round-square&logo=React&logoColor=black"/></a>
 
 ### My Works:
+!! 모든 데모는 마이크로소프트 Edge 에서 확인가능합니다.!
 
 React js 를 활용한 프로젝트
 - [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! ([레포지토리](https://github.com/donghee564/TMDB_movie_app), [데모](https://donghee564.github.io/TMDB_movie_app/#/))
