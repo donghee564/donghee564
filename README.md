@@ -10,12 +10,13 @@
 
 ### My Works:
 
-#### ⚠️ **주의:** 모든 데모는 마이크로소프트 Edge 에서 확인가능합니다.
+~~#### ⚠️ **주의:** 모든 데모는 마이크로소프트 Edge 에서 확인가능합니다.~~
+#### ⚠️ 2025.03 깃허브 페이지는 크롬에서 위험싸이트로 분류되어 넷틀리파이로 호스팅 했습니다.(리다이렉션 이슈)
 
 #### :pushpin: 2025년 현재 TMDb-movie-app 코드 최적화, 웹접근성 추가, 반응형 작업중 입니다. 
 
 ##### ✔ React js 를 활용한 프로젝트
-- [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! ([레포지토리](https://github.com/donghee564/TMDB_movie_app), [데모](https://donghee564.github.io/TMDB_movie_app/#/))
+- [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! ([레포지토리](https://github.com/donghee564/TMDB_movie_app), [데모](https://donghee564.github.io/TMDB_movie_app/#/](https://luminous-platypus-424cdb.netlify.app/#/)
 - [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! ([레포지토리](https://github.com/donghee564/weather_app), [데모](https://donghee564.github.io/weather_app/))
 
 ##### 포트폴리오 소개 웹페이지 (2020)
