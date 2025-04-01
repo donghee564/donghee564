@@ -18,7 +18,7 @@
 
 ##### ✔ React js 를 활용한 프로젝트
 - [TMDb-movie-app](https://github.com/donghee564/TMDB_movie_app) - themoviedb API 를 활용한 영화 리뷰 SPA! ([레포지토리](https://github.com/donghee564/TMDB_movie_app), ([데모](https://luminous-platypus-424cdb.netlify.app/#/))
-- [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! ([레포지토리](https://github.com/donghee564/weather_app)
+- [weather-app](https://github.com/donghee564/weather_app) - OpenWeatherMap API 를 활용한 나의 첫번째 리액트 프로젝트! ([레포지토리](https://github.com/donghee564/weather_app))
 
 ##### 포트폴리오 소개 웹페이지 (2020)
 - 마이크로소프트 Edge에 최적화 되어있습니다.
